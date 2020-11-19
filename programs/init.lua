@@ -1,4 +1,4 @@
-local monitor = periphreal.find("monitor")
+local monitor = peripheral.find("monitor")
 if monitor == null then
   error("No valid monitor was found!")
 else 
