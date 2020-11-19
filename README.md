@@ -1,7 +1,7 @@
 # ComputerCraftPrograms
 Houses all my programs for the Minecraft Computer Craft Mod
 
-#Install Guide
+# Install Guide
 pastebin get uQHKLREv install
 install
 
